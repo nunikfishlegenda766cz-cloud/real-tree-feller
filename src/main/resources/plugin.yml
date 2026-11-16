@@ -1,0 +1,4 @@
+name: RealTreeFeller
+version: 1.0
+main: cz.tvojeserver.realtreefeller.RealTreeFeller
+api-version: '1.20'
